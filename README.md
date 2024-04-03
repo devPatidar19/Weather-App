@@ -1,6 +1,6 @@
 ## ⭐ Weather App ⭐
 
-Designed and developed a web application that generates random passwords based on user preferences. 
+A simple yet powerful weather application built using modern web technologies. This app provides real-time weather information for any location worldwide, including temperature, humidity, wind speed, and more. With a clean and intuitive interface, users can easily navigate through different locations, view detailed forecasts, and plan their activities accordingly. Powered by reliable APIs, this app ensures accurate and up-to-date weather data for a seamless user experience.
 
 ## 📌 **Live Site URL:** <a href="https://codehelp-weather-app.netlify.app/">**Visit Now** 🚀</a>
 
